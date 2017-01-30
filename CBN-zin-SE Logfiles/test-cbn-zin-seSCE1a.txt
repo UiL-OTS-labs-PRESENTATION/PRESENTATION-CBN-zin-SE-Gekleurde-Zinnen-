@@ -1,0 +1,5 @@
+subject1	trial1	wordnr1	condition1	colorcode1	word1	code2	rm_type	time_diff
+test	16	2	1	2	piano.	2	rm_hit	2858.4
+test	26	4	1	4	boek.	3	rm_incorrect	1104.4
+test	34	1	1	1	bananen.	1	rm_hit	1446.4
+

@@ -1,0 +1,19 @@
+subject1	trial1	wordnr1	condition1	colorcode1	word1	code2	rm_type	time_diff
+test	16	2	1	2	piano.	2	rm_hit	685.5
+test	24	4	1	4	piano.	2	rm_incorrect	360.7
+test	32	1	1	2	bananen.	1	rm_incorrect	345.5
+test	40	3	1	2	bananen.	2	rm_hit	258.7
+test	48	1	1	4	bananen.	4	rm_hit	335.4
+test	56	4	1	2	piano.	1	rm_incorrect	256.8
+test	64	3	1	2	bananen.	4	rm_incorrect	517.4
+test	72	2	1	4	piano.	1	rm_incorrect	439.5
+test	80	4	1	2	piano.	2	rm_hit	308.1
+test	88	1	1	2	bananen.	4	rm_incorrect	350.8
+test	96	3	1	2	bananen.	2	rm_hit	295.4
+test	104	2	1	4	piano.	2	rm_incorrect	274.8
+test	112	1	1	2	bananen.	2	rm_hit	390.7
+test	120	3	1	4	bananen.	1	rm_incorrect	350.1
+test	128	2	1	2	piano.	2	rm_hit	350.8
+test	136	4	1	2	piano.	4	rm_incorrect	807.4
+test	140	0	0	0		253	rm_false_alarm	2530.1
+
